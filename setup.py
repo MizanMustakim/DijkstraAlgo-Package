@@ -6,7 +6,7 @@ with open("ReadMe.md", 'r', encoding="utf-8") as file:
 
 setup(
     name='DijkstraAlgo',
-    version='0.0.6',
+    version='0.0.7',
     description='''To measure the shortest distance of any nodes or any particular points, we can use this package.
     By using this package, we will get the shortest path and also the distance.''',
     py_modules=["DijkstraAlgo"],
@@ -14,7 +14,7 @@ setup(
     author="Md Mizanur Rahman Mustakim",
     author_email='mustakim.mizan@gmail.com',
     url='https://github.com/MizanMustakim/DijkstraAlgo-Package',
-    download_url="https://github.com/MizanMustakim/DijkstraAlgo-Package/archive/0.0.6.tar.gz",
+    download_url="https://github.com/MizanMustakim/DijkstraAlgo-Package/archive/0.0.7.tar.gz",
     keywords=['Shortest Path', 'Dijkstra Algorithm', 'Graph',
               'Shortest Distance', 'Shortest Route', 'Dijkstra_2D', 'Dijkstra_3D'],
     long_description=long_description,

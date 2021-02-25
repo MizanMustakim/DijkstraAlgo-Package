@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: DijkstraAlgo
-Version: 0.0.6
+Version: 0.0.7
 Summary: To measure the shortest distance of any nodes or any particular points, we can use this package.
     By using this package, we will get the shortest path and also the distance.
-Home-page: https://github.com/MizanMustakim/Dijkstra-s-Shortest-Path-Algorithm
+Home-page: https://github.com/MizanMustakim/DijkstraAlgo-Package
 Author: Md Mizanur Rahman Mustakim
 Author-email: mustakim.mizan@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/MizanMustakim/Dijkstra-s-Shortest-Path-Algorithm/archive/0.0.1.tar.gz
+Download-URL: https://github.com/MizanMustakim/DijkstraAlgo-Package/archive/0.0.7.tar.gz
 Description: # DijsktraAlgorithm
         
         
