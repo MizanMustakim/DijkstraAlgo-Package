@@ -1,4 +1,3 @@
-
 class DijkstraAlgorithm:
 
     def __init__(self):
